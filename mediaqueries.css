@@ -11,61 +11,6 @@
       height: fit-content;
     }
 
-    .section__pic-container {
-      width: 275px;
-      height: 275px;
-      margin: 0 auto 2rem ;
-    }
-    .about-containers {
-      margin-top: 0;
-    }
-    .picture{
-      padding-right: 5%;
-      border-radius: 50%;
-    }
-    .profile-section{
-      display: flex !important;
-      align-items: center !important;
-      justify-content: center !important;
-  }
-
-  .section__text{
-    padding-right: 9% !important;
-  }
-
-  .total-container{
-    background-color: #f1e3dd !important;
-  }
-
-  .new-btn{
-    background-color: #ADBC9F;
-    border-style: none;
-    color: black !important;
-  }
-
-  .headings{
-    color: #12372A !important ;
-  }
-
-  .softhead{
-    color: #436850 !important;
-  }
-
-  .exphead{
-    color: #245953 !important;
-  }
-  .expnum{
-    color: #495E57 !important;
-  }
-  .fronhead{
-    color: #5C8984 !important;
-  }
-  .skill{
-    color:#092635 !important;
-  }
-  .under{
-    color: #5C8374 !important ;
-  }
 
   }
   
@@ -103,54 +48,7 @@
     .about-containers {
       margin-top: 0;
     }
-    .picture{
-      padding-right: 5%;
-      border-radius: 50%;
-    }
-    .profile-section{
-      display: flex !important;
-      align-items: center !important;
-      justify-content: center !important;
-  }
-
-  .section__text{
-    padding-right: 9% !important;
-  }
-
-  .total-container{
-    background-color: #f1e3dd !important;
-  }
-
-  .new-btn{
-    background-color: #ADBC9F;
-    border-style: none;
-    color: black !important;
-  }
-
-  .headings{
-    color: #12372A !important;
-  }
-
-  .softhead{
-    color: #436850 !important;
-  }
-
-  .exphead{
-    color: #245953 !important;
-  }
-  .expnum{
-    color: #495E57 !important;
-  }
-  .fronhead{
-    color: #5C8984 !important;
-  }
-  .skill{
-    color:#092635 !important;
-    font-size: 15px !important;
-  }
-  .under{
-    color: #5C8374 !important ;
-  }
+  
 
   }
   
@@ -207,47 +105,7 @@
     .text-container {
       text-align: justify;
     }
-    .total-container{
-      background-color: #FFF7F1 !important;
-    } 
-    
-    .section__text{
-      padding-right: 9% !important;
-    }
-  
-    .total-container{
-      background-color: #f1e3dd !important;
-    }
-  
-    .new-btn{
-      background-color: #ADBC9F !important;
-      border-style: none !important;
-      color: black !important;
-    }
-  
-    .headings{
-      color: #12372A !important;
-    }
-  
-    .softhead{
-      color: #436850 !important;
-    }
-  
-    .exphead{
-      color: #245953 !important;
-    }
-    .expnum{
-      color: #495E57 !important;
-    }
-    .fronhead{
-      color: #5C8984 !important;
-    }
-    .skill{
-      color:#092635 !important;
-    }
-    .under{
-      color: #5C8374 !important ;
-    }
+
 
   }
   
