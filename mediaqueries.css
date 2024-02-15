@@ -24,10 +24,9 @@
       border-radius: 50%;
     }
     .profile-section{
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      padding-top: 5% !important;
+      display: flex !important;
+      align-items: center !important;
+      justify-content: center !important;
   }
 
   .section__text{
@@ -109,10 +108,9 @@
       border-radius: 50%;
     }
     .profile-section{
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      padding-top: 5% !important;
+      display: flex !important;
+      align-items: center !important;
+      justify-content: center !important;
   }
 
   .section__text{
@@ -147,7 +145,7 @@
     color: #5C8984 !important;
   }
   .skill{
-    color:#092635;
+    color:#092635 !important;
     font-size: 15px !important;
   }
   .under{
@@ -222,8 +220,8 @@
     }
   
     .new-btn{
-      background-color: #ADBC9F;
-      border-style: none;
+      background-color: #ADBC9F !important;
+      border-style: none !important;
       color: black !important;
     }
   
