@@ -11,6 +11,62 @@
       height: fit-content;
     }
 
+    .section__pic-container {
+      width: 275px;
+      height: 275px;
+      margin: 0 auto 2rem ;
+    }
+    .about-containers {
+      margin-top: 0;
+    }
+    .picture{
+      padding-right: 5%;
+      border-radius: 50%;
+    }
+    .profile-section{
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding-top: 5% !important;
+  }
+
+  .section__text{
+    padding-right: 9% !important;
+  }
+
+  .total-container{
+    background-color: #f1e3dd !important;
+  }
+
+  .new-btn{
+    background-color: #ADBC9F;
+    border-style: none;
+    color: black !important;
+  }
+
+  .headings{
+    color: #12372A !important ;
+  }
+
+  .softhead{
+    color: #436850 !important;
+  }
+
+  .exphead{
+    color: #245953 !important;
+  }
+  .expnum{
+    color: #495E57 !important;
+  }
+  .fronhead{
+    color: #5C8984 !important;
+  }
+  .skill{
+    color:#092635 !important;
+  }
+  .under{
+    color: #5C8374 !important ;
+  }
 
   }
   
@@ -52,7 +108,51 @@
       padding-right: 5%;
       border-radius: 50%;
     }
+    .profile-section{
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding-top: 5% !important;
+  }
 
+  .section__text{
+    padding-right: 9% !important;
+  }
+
+  .total-container{
+    background-color: #f1e3dd !important;
+  }
+
+  .new-btn{
+    background-color: #ADBC9F;
+    border-style: none;
+    color: black !important;
+  }
+
+  .headings{
+    color: #12372A !important;
+  }
+
+  .softhead{
+    color: #436850 !important;
+  }
+
+  .exphead{
+    color: #245953 !important;
+  }
+  .expnum{
+    color: #495E57 !important;
+  }
+  .fronhead{
+    color: #5C8984 !important;
+  }
+  .skill{
+    color:#092635;
+    font-size: 15px !important;
+  }
+  .under{
+    color: #5C8374 !important ;
+  }
 
   }
   
@@ -110,45 +210,45 @@
       text-align: justify;
     }
     .total-container{
-      background-color: #FFF7F1;
+      background-color: #FFF7F1 !important;
     } 
     
     .section__text{
-      padding-right: 9%;
+      padding-right: 9% !important;
     }
   
     .total-container{
-      background-color: #f1e3dd;
+      background-color: #f1e3dd !important;
     }
   
     .new-btn{
       background-color: #ADBC9F;
       border-style: none;
-      color: black;
+      color: black !important;
     }
   
     .headings{
-      color: #12372A;
+      color: #12372A !important;
     }
   
     .softhead{
-      color: #436850;
+      color: #436850 !important;
     }
   
     .exphead{
-      color: #245953;
+      color: #245953 !important;
     }
     .expnum{
-      color: #495E57;
+      color: #495E57 !important;
     }
     .fronhead{
-      color: #5C8984;
+      color: #5C8984 !important;
     }
     .skill{
-      color:#092635;
+      color:#092635 !important;
     }
     .under{
-      color: #5C8374 ;
+      color: #5C8374 !important ;
     }
 
   }
