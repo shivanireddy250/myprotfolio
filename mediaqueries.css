@@ -14,7 +14,7 @@
     .section__pic-container {
       width: 275px;
       height: 275px;
-      margin: 0 auto 2rem;
+      margin: 0 auto 2rem !important;
     }
     .about-containers {
       margin-top: 0;
@@ -45,27 +45,27 @@
   }
 
   .headings{
-    color: #12372A;
+    color: #12372A !important ;
   }
 
   .softhead{
-    color: #436850;
+    color: #436850 !important;
   }
 
   .exphead{
-    color: #245953;
+    color: #245953 !important;
   }
   .expnum{
-    color: #495E57;
+    color: #495E57 !important;
   }
   .fronhead{
-    color: #5C8984;
+    color: #5C8984 !important;
   }
   .skill{
-    color:#092635;
+    color:#092635 !important;
   }
   .under{
-    color: #5C8374 ;
+    color: #5C8374 !important ;
   }
 
   }
