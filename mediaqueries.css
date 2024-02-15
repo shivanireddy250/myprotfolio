@@ -52,51 +52,7 @@
       padding-right: 5%;
       border-radius: 50%;
     }
-    .profile-section{
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      padding-top: 5%;
-  }
 
-  .section__text{
-    padding-right: 9%;
-  }
-
-  .total-container{
-    background-color: #f1e3dd;
-  }
-
-  .new-btn{
-    background-color: #ADBC9F;
-    border-style: none;
-    color: black;
-  }
-
-  .headings{
-    color: #12372A;
-  }
-
-  .softhead{
-    color: #436850;
-  }
-
-  .exphead{
-    color: #245953;
-  }
-  .expnum{
-    color: #495E57;
-  }
-  .fronhead{
-    color: #5C8984;
-  }
-  .skill{
-    color:#092635;
-    font-size: 15px;
-  }
-  .under{
-    color: #5C8374 ;
-  }
 
   }
   
