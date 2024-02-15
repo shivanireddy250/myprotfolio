@@ -15,10 +15,17 @@ html {
   scroll-behavior: smooth;
 }
 h1{
-  color: #1f3217;
+  color: #0c283d;
+}
+h2{
+  color: #081a28;
+}
+h3{
+  color: #18507a;
 }
 p {
-  color: #707070;
+  color: #53263c
+  ;
 }
 
 /* TRANSITION */
@@ -46,6 +53,9 @@ nav {
   justify-content: space-around;
   align-items: center;
   height: 17vh;
+  color: rgb(37, 59, 70);
+  font-family: robota;
+  font-weight: bold;
 }
 
 .nav-links {
@@ -55,7 +65,7 @@ nav {
 }
 
 a {
-  color: black;
+  color:  #144366;
   text-decoration: none;
   text-decoration-color: white;
 }
@@ -180,10 +190,10 @@ section {
 
 .section__pic-container {
   display: flex;
-  height: 400px;
-  width: 400px;
+  height: 300px;
+  width: 300px;
   margin: auto 0;
-  border-radius: 50%;
+  border-radius: 80%;
 }
 
 .picture {
@@ -256,20 +266,21 @@ section {
 
 .btn-color-1,
 .btn-color-2:hover {
-  background: white;
+  background: whitesmoke;
   color: black;
 }
 
 .btn-color-1:hover {
-  background: bisque;
+  background: white;
 }
 
 .btn-color-2 {
-  background: #8fb6ab;
+  background: #cfe2f3;
+  border-style: none;
 }
 
 .btn-color-2:hover {
-  border: #8fb6ab 0.1rem solid;
+  border: #cfe2f3 0.1rem solid;
 }
 
 .btn-container {
@@ -312,7 +323,7 @@ section {
 .details-container {
   padding: 1.5rem;
   flex: 1;
-  background: #FCF6F5;
+  background: #f5f9fc;
   border-radius: 2rem;
   border: rgb(53, 53, 53) 0.1rem solid;
   border-color: rgb(163, 163, 163);
@@ -332,12 +343,17 @@ section {
 
 /* EXPERIENCE SECTION */
 
+.text-container{
+  color: black !;
+  font-family: roboto;
+}
+
 #experience {
   position: relative;
 }
 
 .experience-sub-title {
-  color: rgb(85, 85, 85);
+  color: #5c1538;
   font-weight: 600;
   font-size: 1.75rem;
   margin-bottom: 2rem;
@@ -388,7 +404,10 @@ article .icon {
 
 .project-title {
   margin: 1rem;
-  color: black;
+  color: #440f2b;
+  font-size: large ;
+  font-weight: bolder;
+
 }
 
 .project-btn {
