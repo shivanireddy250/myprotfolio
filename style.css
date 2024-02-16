@@ -415,6 +415,26 @@ article .icon {
   border-color: rgb(163, 163, 163);
 }
 
+.Certifications{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  color: #5c1538;
+  font-weight: 600;
+  font-size: 1.5  rem;
+  margin-bottom: 2rem;
+}
+
+.cert-img {
+  padding: 1.5rem;
+  flex: 1;
+  background: #f5f9fc;
+  border-radius: 2rem;
+  border: rgb(53, 53, 53) 0.1rem solid;
+  border-color: rgb(163, 163, 163);
+  text-align: center;
+}
+
 /* CONTACT */
 
 #contact {
