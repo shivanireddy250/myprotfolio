@@ -418,7 +418,6 @@ article .icon {
 .Certifications{
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-around;
   color: #5c1538;
   font-weight: 600;
   font-size: 1.5  rem;
