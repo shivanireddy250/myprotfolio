@@ -73,6 +73,18 @@
     .btn-container {
       flex-wrap: wrap;
     }
+
+    .Certifications-container{
+      flex-wrap: wrap;
+      flex-direction: row;
+      justify-content: center;
+    }
+    .Certifications{
+      flex-wrap: wrap;
+      flex-direction: row;
+      justify-content: center;
+    }
+    
     .contact-info-container {
       margin: 0;
     }
