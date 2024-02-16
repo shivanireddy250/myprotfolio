@@ -414,9 +414,13 @@ article .icon {
   color: black;
   border-color: rgb(163, 163, 163);
 }
+.certhead{
+  padding: 10px;
+}
 
 .Certifications{
   display: flex;
+  justify-content: space-around;
   color: #5c1538;
   font-weight: 600;
   font-size: 1.5  rem;
